@@ -33,9 +33,9 @@
 4. Then, You will hava a choice to choose which Memory allocation algorithm to apply on the processes you will enter later.
 5. If the incoming process can't be allocated , A message will show up to user to inform him to enter another proper process.
 
-![2](https://user-images.githubusercontent.com/66043730/85202673-58413480-b308-11ea-86bd-a23a12d732c2.png)
+![First fit example](https://user-images.githubusercontent.com/66043730/85202602-c6392c00-b307-11ea-8d48-746336928ce6.PNG)
 ###### Adding Process by using First Fit Memory Allocation Algorithm.
-![3](https://user-images.githubusercontent.com/66043730/85202682-67c07d80-b308-11ea-8ced-3ff1d1f4b3ca.png)
+![1st fit output](https://user-images.githubusercontent.com/66043730/85202600-c46f6880-b307-11ea-8bdc-c6a67bb836a5.PNG)
 ###### The output.
 
 
