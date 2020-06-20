@@ -42,4 +42,4 @@
 
 
 # Notes:
-* You can start another scheduling withought closing the current simulation
+* You can start another scheduling without closing the current simulation
