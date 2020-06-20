@@ -13,7 +13,7 @@
 
 #### Here is a tutorial to open and use the application in a proper way : 
 
-![1](https://user-images.githubusercontent.com/66043730/85202665-4e1f3600-b308-11ea-8950-81f2fc8bef27.png)
+![71241597_3359494237407912_8890007713240372493_n](https://user-images.githubusercontent.com/66043730/85204430-bb38c880-b314-11ea-9713-37d9a873a382.png)
 ###### GUI 
 
 ![2](https://user-images.githubusercontent.com/66043730/85202673-58413480-b308-11ea-86bd-a23a12d732c2.png)
